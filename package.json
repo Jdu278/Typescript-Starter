@@ -1,0 +1,14 @@
+{
+  "name": "typescriptstarter",
+  "version": "1.0.0",
+  "description": "This is a minimal template for typescript projects",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Tim Schauder",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
