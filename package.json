@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This is a minimal template for typescript projects",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": " npm run test",
     "start": "ts-node src/index.ts"
